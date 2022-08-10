@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...my own(Open to work)
-- 🌱 I’m currently learning ...  Data Science Bottcamp
-- 👯 I’m looking to collaborate on ... pyhton
+- 🌱 I’m currently learning ...  Data Science Bootcamp
+- 👯 I’m looking to collaborate on ... python
 - 🤔 I’m looking for help with ...Cloud computing AWS
 - .. A medium Article...https://medium.com/@aliaslam9439/automation-on-airports-using-api-and-aws-338dbb7f22bc
 - 💬 Ask me about ...Anything
